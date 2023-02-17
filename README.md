@@ -21,4 +21,5 @@ Follow the instructions on the Concordium website and acquire testnet CCD from t
 
 ## Export the account from the web wallet and import it into Concordium client: 
 Follow the instructions on the Concordium website.
-![](img7.png)
+![](img7.png)Mainnet wallet
+47AxZkxDS58BDHAmk7WUxhCxUFCf7turYSs4aVWkzSdKYjVLHa
